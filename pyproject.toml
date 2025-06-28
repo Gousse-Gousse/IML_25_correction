@@ -1,0 +1,9 @@
+[project]
+name = "iml-25-correction"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter-server==2.16.0",
+    "jupyterlab-launcher>=0.13.1",
+]
